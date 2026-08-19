@@ -2,20 +2,20 @@
 
 ### FullStack Developer
 
-Saya seorang developer yang berfokus pada pengembangan aplikasi web, khususnya **backend development** menggunakan Laravel, Django, dan Python.
+Lulusan S1 Teknik Informatika dengan minat dan keahlian dalam pengembangan aplikasi web dan web design. Memiliki kemampuan dalam membangun aplikasi menggunakan PHP, Laravel, CodeIgniter 3, JavaScript, Vue.js, dan React JS serta merancang dan mengintegrasikan RESTful API dengan database MySQL untuk mendukung kebutuhan sistem. Memahami Software Development Life Cycle (SDLC), MVC Architecture, Eloquent ORM, Object-Oriented Programming (OOP). 
 
-Saya tertarik membangun aplikasi yang terstruktur, mudah digunakan, dan dapat menyelesaikan kebutuhan nyata melalui pemanfaatan teknologi web.
+Memiliki kemampuan analisa, problem solving, dan komunikasi yang baik, serta mampu bekerja secara kolaboratif maupun mandiri. Berkomitmen untuk terus mengembangkan kemampuan teknis dan siap berkontribusi sebagai Web Developer, Software Engineer, Backend Developer, Frontend Developer, WordPress, maupun Digital Platform Support dalam membangun solusi perangkat lunak yang efisien.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🔭 Saat ini mengembangkan berbagai aplikasi berbasis web
-* 🌱 Sedang memperdalam **Laravel, Javascript, Python, dan Fullstack Development**
-* 🗄️ Berpengalaman menggunakan database relasional seperti **MySQL dan SQLite**
-* 🤖 Tertarik pada penerapan **Machine Learning dan NLP** pada aplikasi web
-* 🛠️ Terbiasa menggunakan **Git & GitHub** untuk version control
-* 📚 Senang mempelajari teknologi dan mengembangkan project untuk meningkatkan kemampuan programming
+* 🔭 Saat ini mengembangkan berbagai aplikasi berbasis web.
+* 🌱 Berkomitmen untuk terus mengembangkan kemampuan teknis dan siap berkontribusi sebagai **Web Developer, Software Engineer, Backend Developer, Frontend Developer, WordPress, maupun Digital Platform Support dalam membangun solusi perangkat lunak yang efisien.**
+* 🗄️ Berpengalaman menggunakan database relasional seperti **MySQL dan SQLite.**
+* 🤖 Tertarik pada penerapan **Machine Learning, Deep Learning dan NLP** pada aplikasi web.
+* 🛠️ Terbiasa menggunakan **Git & GitHub** untuk version control.
+* 📚 Senang mempelajari teknologi dan mengembangkan project untuk meningkatkan kemampuan programming.
 
 ---
 
@@ -130,22 +130,22 @@ Aplikasi web untuk melakukan analisis sentimen terhadap ulasan **WhatsApp dari G
 Saya memiliki ketertarikan pada:
 
 * 🌐 **Web Application Development**
-* ⚙️ **Backend Development**
+* ⚙️ **FullStack Dev**
 * 🗄️ **Database Management**
 * 🔐 **Authentication & Authorization**
 * 🔌 **REST API**
 * 🤖 **Natural Language Processing**
-* 📊 **Machine Learning**
+* 📊 **Machine Learning & Deep Learning**
 * 🧠 **Sentiment Analysis**
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghifari-naufal&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghifari-naufal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
@@ -154,6 +154,12 @@ Saya memiliki ketertarikan pada:
 <p>
 <a href="https://github.com/ghifari-naufal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p>
+<a href="[https://github.com/ghifari-naufal](https://www.linkedin.com/in/ghifari-naufal-nasrullah-2973b8230/)">
+<img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="LinkedIn">
 </a>
 </p>
 

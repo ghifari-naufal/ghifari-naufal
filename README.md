@@ -11,7 +11,7 @@ Saya tertarik membangun aplikasi yang terstruktur, mudah digunakan, dan dapat me
 ## 🧑‍💻 About Me
 
 * 🔭 Saat ini mengembangkan berbagai aplikasi berbasis web
-* 🌱 Sedang memperdalam **Laravel, Django, Python, dan backend development**
+* 🌱 Sedang memperdalam **Laravel, Javascript, Python, dan Fullstack Development**
 * 🗄️ Berpengalaman menggunakan database relasional seperti **MySQL dan SQLite**
 * 🤖 Tertarik pada penerapan **Machine Learning dan NLP** pada aplikasi web
 * 🛠️ Terbiasa menggunakan **Git & GitHub** untuk version control
@@ -38,7 +38,7 @@ Aplikasi web untuk membantu pengelolaan informasi dan administrasi **TK Asy-Syif
 * Pengelolaan database
 * Antarmuka berbasis web
 
-🔗 **[View Repository](https://github.com/ghifari-naufal/web-tk-asy-syifa-2)**
+🔗 **[View Repository](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg)**
 
 ---
 
@@ -84,6 +84,8 @@ Aplikasi web untuk melakukan analisis sentimen terhadap ulasan **WhatsApp dari G
 **Sentiment Classes**
 
 `Negative` `Neutral` `Positive`
+
+🔗 **[View Repository](https://github.com/ghifari-naufal/analisis-sentimen-berbasis-web)**
 
 ---
 

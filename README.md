@@ -159,7 +159,7 @@ Saya memiliki ketertarikan pada:
 
 <p>
 <a href="[https://github.com/ghifari-naufal](https://www.linkedin.com/in/ghifari-naufal-nasrullah-2973b8230/)">
-<img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 

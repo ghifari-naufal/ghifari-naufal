@@ -158,13 +158,13 @@ Saya memiliki ketertarikan pada:
 </p>
 
 <p>
-<a href="[https://github.com/ghifari-naufal](https://www.linkedin.com/in/ghifari-naufal-nasrullah-2973b8230/)">
+<a href="https://www.linkedin.com/in/ghifari-naufal-nasrullah-2973b8230/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 <p>
-<a href="mailto:ghifarinaufalnasrullah@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghifarinaufalnasrullah@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>

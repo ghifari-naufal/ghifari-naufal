@@ -23,9 +23,12 @@ Memiliki kemampuan analisa, problem solving, dan komunikasi yang baik, serta mam
 
 ### 🏫 Web TK Asy-Syifa
 
+#### Landing Page
 ![Landing_Page](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg/blob/main/screenshoots/landing-page.png)
 
+#### Dashboard
 ![Dashboard_Admin](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg/blob/main/screenshoots/dashboard.png)
+
 
 Aplikasi web untuk membantu pengelolaan informasi dan administrasi **TK Asy-Syifa**.
 
@@ -73,7 +76,7 @@ Aplikasi web untuk melakukan analisis sentimen terhadap ulasan **WhatsApp dari G
 
 **Tech Stack**
 
-`Python` `IndoBERT` `Hugging Face` `FastAPI` `Streamlit`
+`Python` `IndoBERT` `Hugging Face` `FastAPI` `JavaScript`
 
 **Highlights**
 
@@ -81,9 +84,8 @@ Aplikasi web untuk melakukan analisis sentimen terhadap ulasan **WhatsApp dari G
 * Fine-tuning model IndoBERT
 * Klasifikasi sentimen
 * Active Learning
-* Human-in-the-Loop
 * REST API menggunakan FastAPI
-* Visualisasi hasil analisis melalui Streamlit
+* Visualisasi hasil analisis
 
 **Sentiment Classes**
 

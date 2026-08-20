@@ -23,9 +23,9 @@ Memiliki kemampuan analisa, problem solving, dan komunikasi yang baik, serta mam
 
 ### 🏫 Web TK Asy-Syifa
 
-![Dashboard_Admin](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg/blob/main/screenshoots/dashboard.png)
+![Landing_Page](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg/blob/main/screenshoots/landing-page.png)
 
-![Landing_Page](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg/blob/main/screenshoots/login.png)
+![Dashboard_Admin](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg/blob/main/screenshoots/dashboard.png)
 
 Aplikasi web untuk membantu pengelolaan informasi dan administrasi **TK Asy-Syifa**.
 

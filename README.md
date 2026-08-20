@@ -23,6 +23,10 @@ Memiliki kemampuan analisa, problem solving, dan komunikasi yang baik, serta mam
 
 ### 🏫 Web TK Asy-Syifa
 
+![Dashboard_Admin](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg/blob/main/screenshoots/dashboard.png)
+
+![Landing_Page](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg/blob/main/screenshoots/login.png)
+
 Aplikasi web untuk membantu pengelolaan informasi dan administrasi **TK Asy-Syifa**.
 
 **Tech Stack**
@@ -39,7 +43,6 @@ Aplikasi web untuk membantu pengelolaan informasi dan administrasi **TK Asy-Syif
 * Antarmuka berbasis web
 
 🔗 **[View Repository](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg)**
-<a href="https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 ---
 

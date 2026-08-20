@@ -39,6 +39,7 @@ Aplikasi web untuk membantu pengelolaan informasi dan administrasi **TK Asy-Syif
 * Antarmuka berbasis web
 
 🔗 **[View Repository](https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg)**
+<a href="https://github.com/ghifari-naufal/web-tk-asy-syifa-2-bdg"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 ---
 

@@ -15,6 +15,7 @@ Background dalam pengembangan web dan REST API membantu saya memahami alur **fro
 - 🧪 Berfokus pada **Manual Testing & Functional Testing**
 - 📋 Memahami **Requirement Analysis, Test Scenario, Test Case, dan Test Execution**
 - 🔍 Terbiasa melakukan **Positive, Negative, Boundary, dan Input Validation Testing**
+- 🔌 Memiliki pengalaman melakukan **API Testing menggunakan Postman**
 - 🔗 Memahami alur **Frontend–Backend & REST API Integration**
 - 🐞 Memahami dokumentasi hasil pengujian dan identifikasi defect
 - 💻 Memiliki technical background dalam **Web Development, Database, Git & GitHub**
@@ -34,7 +35,7 @@ Pengujian aplikasi web analisis sentimen berbasis **Model DeepLearning IndoBERT*
 
 **QA Skills Applied**
 
-`Manual Testing` `Black Box Testing` `Functional Testing` `Boundary Testing` `Validation Testing`
+`Manual Testing` `Black Box Testing` `Functional Testing` `Boundary Testing` `Validation Testing` `API Testing` `Postman` 
 
 **QA Highlights**
 

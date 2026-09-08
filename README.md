@@ -1,26 +1,54 @@
 # 👋 Hi, I'm Ghifari Naufal Nasrullah
 
-### Fullstack Developer | Web Developer | Junior QA
+### Junior QA Engineer | Manual & Functional Testing | Web Development Background
 
-Saya adalah lulusan S1 Teknik Informatika yang berfokus pada pengembangan aplikasi web. Memiliki pengalaman membangun aplikasi menggunakan **PHP, Laravel, CodeIgniter 3, JavaScript, Vue.js, React.js**, serta mengintegrasikan **RESTful API** dan database **MySQL**.
+Saya adalah lulusan **S1 Teknik Informatika** dengan ketertarikan utama pada bidang **Software Quality Assurance**, khususnya pengujian aplikasi web.
 
-Memahami konsep **SDLC, MVC Architecture, OOP, Eloquent ORM**, serta terbiasa menggunakan **Git & GitHub** dalam proses pengembangan aplikasi.
+Memiliki pengalaman dalam **Requirement Analysis, Test Scenario & Test Case Design, Black Box Testing, Functional Testing, Boundary Testing, Input Validation**, serta dokumentasi **Expected Result vs Actual Result**.
+
+Background dalam pengembangan web dan REST API membantu saya memahami alur **frontend, backend, database, dan integrasi sistem** sehingga dapat melakukan pengujian dengan perspektif teknis yang lebih baik.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Fokus pada **Fullstack & Web Development**
-- ⚙️ Berpengalaman membangun aplikasi menggunakan **PHP, Laravel, CodeIgniter, dan JavaScript**
-- 🔌 Memahami pengembangan dan integrasi **RESTful API**
-- 🗄️ Terbiasa menggunakan **MySQL dan SQLite**
-- 🔐 Memahami implementasi **Authentication & Authorization**
-- 🛠️ Terbiasa menggunakan **Git & GitHub** untuk version control
-- 🤖 Memiliki ketertarikan pada **Machine Learning, NLP, dan AI**
+- 🧪 Berfokus pada **Manual Testing & Functional Testing**
+- 📋 Memahami **Requirement Analysis, Test Scenario, Test Case, dan Test Execution**
+- 🔍 Terbiasa melakukan **Positive, Negative, Boundary, dan Input Validation Testing**
+- 🔗 Memahami alur **Frontend–Backend & REST API Integration**
+- 🐞 Memahami dokumentasi hasil pengujian dan identifikasi defect
+- 💻 Memiliki technical background dalam **Web Development, Database, Git & GitHub**
+- 🤖 Memiliki pengalaman validasi sistem berbasis **Machine Learning & NLP**
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🧪 QA Testing — Analisis Sentimen Ulasan WhatsApp Berbasis Website
+
+Pengujian aplikasi web analisis sentimen berbasis **Model DeepLearning IndoBERT** untuk memastikan fungsi sistem berjalan sesuai requirement, mulai dari input data, klasifikasi, batch analysis, hingga export laporan.
+
+**Tech Stack**
+
+`Python` `FastAPI` `JavaScript`
+
+**QA Skills Applied**
+
+`Manual Testing` `Black Box Testing` `Functional Testing` `Boundary Testing` `Validation Testing`
+
+**QA Highlights**
+
+- Functional & Non-Functional Requirement Analysis
+- Test Scenario & Test Case Design
+- Positive, Negative & Boundary Testing
+- Input & File Upload Validation
+- Single Text & Batch Analysis Testing
+- Mixed Sentiment Validation
+- Frontend–Backend Integration Validation
+- Expected vs Actual Result Documentation
+- AI Model Quality Validation
+
+🔗 **[View QA Documentation & Repository](https://github.com/ghifari-naufal/analisis-sentimen-berbasis-web)**
 
 ### 🏫 Web TK Asy-Syifa
 

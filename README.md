@@ -48,7 +48,9 @@ Pengujian aplikasi web analisis sentimen berbasis **Model DeepLearning IndoBERT*
 - Expected vs Actual Result Documentation
 - AI Model Quality Validation
 
-🔗 **[View QA Documentation & Repository](https://github.com/ghifari-naufal/analisis-sentimen-berbasis-web)**
+🔗 **[View QA Documentation & Repository](https://github.com/ghifari-naufal/sentiment-analysis-qa-portfolio)**
+
+---
 
 ### 🏫 Web TK Asy-Syifa
 

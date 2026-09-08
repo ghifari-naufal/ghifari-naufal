@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ghifari Naufal Nasrullah
 
-### Fullstack Developer | Web Developer
+### Fullstack Developer | Web Developer | Junior QA
 
 Saya adalah lulusan S1 Teknik Informatika yang berfokus pada pengembangan aplikasi web. Memiliki pengalaman membangun aplikasi menggunakan **PHP, Laravel, CodeIgniter 3, JavaScript, Vue.js, React.js**, serta mengintegrasikan **RESTful API** dan database **MySQL**.
 
